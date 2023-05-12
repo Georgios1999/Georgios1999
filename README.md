@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Georgios1999
-- 👀 I’m interested in Arduino (C++) and C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing at the moment...
-- 📫 How to reach me: Chat with me on my discord Georgios1999#2629
+💻 Hi, I am an independent developer. I am an good at Arduino, and I am learning and working on Unity Game Development. You can reach out to me on Discord: Georgios1999#2629. I also design stuff in Canva.
 
 <!---
 Georgios1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
